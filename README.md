@@ -1,2 +1,1 @@
-# pytorchStudy
-PyTorch build on Jetson Nano
+# pytorch build on Jetson Nano
